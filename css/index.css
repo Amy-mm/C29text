@@ -1,0 +1,222 @@
+#header{
+    background-color: #ff841d;
+    width: 100%;
+    height: 50px;
+    padding: 0 10px;
+}
+
+#header .header_logo{
+    float: left;
+}
+
+#header .header_logo  a  img{
+    height: 25px;
+}
+
+#header  .header_app{
+    float: right;
+}
+
+#header  .header_app  a  img{
+    height: 34px;
+    width: 34px;
+}
+
+#search{
+    height: 50px;
+    /*background-color: red;*/
+    background-color: #fff;
+    padding: 10px;
+    position: relative;
+    padding-right: 40px;
+
+}
+
+#search  form  .searchbox{
+    width: 100%;
+    height: 30px;
+    border: none;
+    background: pink;
+   -webkit-border-radius: 14px;
+   -moz-border-radius: 14px;
+    border-radius: 14px;
+}
+
+#search  form  .searchbtn{
+    height: 30px;
+    width: 70px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    -webkit-border-radius: 14px;
+    -moz-border-radius: 14px;
+    border-radius: 14px;
+    background-color: #ff841d;
+    font-size: 14px;
+    color: #fff;
+    border: none;
+
+}
+
+
+#menu {
+    padding: 10px;
+    font-size: 12px;
+}
+
+#menu  .row  .item{
+    padding: 10px 0;
+}
+
+#menu  .row  .item  a{
+    display: block;
+    text-align: center;
+}
+#menu  .row  .item  a  img{
+    width: 50px;
+    height: 50px;
+}
+#menu  .row  .item  a p{
+    padding-top: 5px;
+}
+
+
+#dissable  #dissabletitle{
+    width: 100%;
+    height: 35px;
+    background-color: #ff841d;
+    padding: 0 10px;
+}
+#dissable  #dissabletitle  h4 {
+    padding-top: 8px;
+    font-size: 16px;
+    color: #fff;
+}
+
+#dissable  #dissabletitle  h4 img{
+    width: 20px;
+    float: right;
+}
+
+#dissable   .dissableList{
+    padding: 10px  0;
+}
+
+#dissable   .dissableList   .media{
+    border-bottom: 1px solid   #a1a1a1;
+    padding: 10px;
+}
+
+#dissable   .dissableList   .media .pull-left  img{
+    width: 100px;
+}
+
+#dissable   .dissableList   .media  .media-body{
+    color: #a1a1a1;
+}
+#dissable   .dissableList   .media  .media-body  h4{
+    font-size: 16px;
+}
+
+#dissable   .dissableList   .media  .media-body  h4  span{
+    color: red;
+}
+
+#dissable   .dissableList   .media  .media-body  p{
+    margin-top: 20px;
+}
+
+#dissable   .dissableList   .media  .media-body  p  span{
+    font-size: 12px;
+}
+#dissable   .dissableList   .media  .media-body  p *:nth-child(2){
+    float: right;
+}
+
+#dissable   .dissablemore{
+    padding: 10px;
+}
+#dissable   .dissablemore a{
+    display: block;
+    width: 100%;
+    height: 30px;
+    background-color: pink;
+    border: 1px solid #a1a1a1;
+    border-radius: 7px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 15px;
+    color: #000;
+}
+
+
+#tuijian  .dissabletitle{
+    width: 100%;
+    height: 35px;
+    padding:0 10px;
+    background-color: #ff841d;
+}
+
+
+#tuijian  .dissabletitle  h4{
+    font-size: 14px;
+    color: #fff;
+    padding-top: 8px;
+}
+
+#tuijian  .dissabletitle  h4 img{
+    width: 20px;
+    float: right;
+}
+
+
+#footer{
+    text-align: center;
+}
+#footer div{
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+#footer  div  div{
+    border: 1px solid  #a1a1a1;
+}
+
+#footer  div  div a{
+    display: block;
+    font-size: 14px;
+    color:#333;
+}
+
+#footer  div  .width30{
+    float: left;
+    width: 30%;
+}
+#footer  div  .width40{
+    float: left;
+    width: 40%;
+}
+#footer  div  .width40  a  img {
+   width: 15px;
+    margin-top: -3px;
+}
+
+#footer   p  a *:first-child{
+    color: red;
+}
+
+#footer   p a *:nth-child(2){
+    color: #000;
+}
+
+#footer   p a *:nth-child(3){
+    color: #ccc;
+}
+
+
+
+
+
+
+
+
